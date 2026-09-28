@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nim": "20230280",
+        "nama": "Tajjkia Soraya",
+        "mata_kuliah": "Pemrograman Web",
+        "nilai": 95,
+        "keterangan": "Lulus",
+        "grade": "A"
+    },
+    {
+        "id": 2,
+        "nim": "20230273",
+        "nama": "Hafizah Az-zahra",
+        "mata_kuliah": "Pemrograman Web",
+        "nilai": 93,
+        "keterangan": "Lulus",
+        "grade": "A"
+    }
+]

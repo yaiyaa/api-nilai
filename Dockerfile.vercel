@@ -1,0 +1,7 @@
+FROM dunglas/frankenphp:php8.2
+
+WORKDIR /app
+
+COPY . /app
+
+CMD ["frankenphp", "php-server", "--root", "/app", "--listen", ":80"]
